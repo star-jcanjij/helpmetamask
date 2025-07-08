@@ -1,1 +1,1 @@
-# Trust Wallet Support Number Toll Free +18704066577
+# Contact a Live Person at MetaMask Support
