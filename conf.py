@@ -1,4 +1,4 @@
-
+ 
 # Configuration file for the Sphinx documentation builder.
 # This file only contains a selection of the most common options.
 # For a full list see the documentation:
@@ -16,7 +16,7 @@ import sys
 
 # -- Project information -----------------------------------------------------
 
-project = 'Trust Wallet'
+project = 'Meta Mask'
 copyright = '2025, Meta Mask'
 author = 'Andrew'
 
