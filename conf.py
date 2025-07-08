@@ -17,15 +17,19 @@ import sys
 # -- Project information -----------------------------------------------------
 
 project = 'Trust Wallet'
+copyright = '2025, Meta Mask'
+author = 'Andrew'
 
+# -- General configuration ---------------------------------------------------
+# https://www.sphinx-doc.org/en/master/usage/configuration.html#general-configuration
 
-# The full version, including alpha/beta/rc tags
-#release = '1.0.0'
+extensions = ['sphinx_rtd_theme']
 
+templates_path = ['_templates']
+exclude_patterns = []
 
+# -- Options for HTML output -------------------------------------------------
+# https://www.sphinx-doc.org/en/master/usage/configuration.html#options-for-html-output
 
-
-# Add any paths that contain custom static files (such as style sheets)
-# here, relative to this directory. These files are copied after the built-in
-# static files, so a file named "default.css" will overwrite the built-in one.
-# html_static_path = ['_static']
+html_theme = 'sphinx_rtd_theme'
+html_static_path = ['_static']
